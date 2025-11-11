@@ -12,7 +12,7 @@ except FileNotFoundError:
     st.stop()
 
 # Título y subtítulo
-st.title("🤖 AI Factory: Predictor de Iris")
+st.title("🤖 AI Factory: Predictor de Iris V2")
 st.markdown("Esta app demuestra cómo el 'AI Factory' (Hugging Face) despliega un modelo de ML con una UI de Streamlit, todo disparado por GitOps.")
 
 # --- UI de Entrada (Sliders) ---
