@@ -1,6 +1,8 @@
 ---
-title: "my api"
-sdk: "docker"
-app_file: "main.py"
-pinned: false
+title: AI Factory Iris Predictor
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: app.py
 ---
